@@ -98,12 +98,17 @@ max-width: 500px;
 /* -----------------
 main-section-styles
 ------------------- */
-
+main{
+    /* max-width: 1140px; */
+    margin:0 auto;
+    background-color: #FFF8F3;
+}
 /* -------------------
 about-section-styles
 ---------------------- */
 
 .about{
+    
     padding: 120px;
     border-radius: 10px;
 background-color: #FFF8F3;
@@ -134,3 +139,15 @@ font-weight: 400;
 line-height: 30px;
 align-items: center;
 }
+.about-info-container{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+.about-inf{
+    text-align: center;
+}
+
+
