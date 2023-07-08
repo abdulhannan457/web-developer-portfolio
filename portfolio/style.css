@@ -288,3 +288,14 @@ font-weight: 700;
     margin-top: 110px;
     
 }
+hr{
+    margin: 100px;
+    margin-bottom: 100px;
+}
+.clear-div{
+    clear: both;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
