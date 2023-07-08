@@ -149,5 +149,27 @@ align-items: center;
 .about-inf{
     text-align: center;
 }
+.section-title{
+    text-align: center;
+    color: #181818;
+text-align: center;
+font-family: Open Sans;
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
 
+#what-i-do-description{
+    padding:30px  150px;
+}
 
+/* -----------
+sills-container-start
+----------------- */
+
+.skills-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
