@@ -5,6 +5,7 @@ body{
     font-family: 'Aoboshi One', serif;
 font-family: 'Open Sans', sans-serif;
 font-family: 'Roboto', sans-serif;
+
 }
 .primary-button{
     border-radius:5px ;
@@ -28,6 +29,7 @@ nav{
     display: flex;
    justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 }
 .nav-title{
     color: #181818;
@@ -44,4 +46,23 @@ nav li >a{
     margin: 60px;
     text-decoration: none;
     color: #474747;
+}
+/* ------------------
+header-related-style
+------------------ */
+.header{
+    background-color: #FFF8F3;
+    
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profile-pic{
+    width: 530px;
+height: 500px;
+}
+.banner-content{
+    justify-content: center;
 }
